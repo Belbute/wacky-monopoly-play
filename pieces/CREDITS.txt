@@ -1,0 +1,10 @@
+Piece models from Poly Pizza. CC-BY 3.0 models require this attribution (https://creativecommons.org/licenses/by/3.0/).
+
+hat.glb: "Top Hat by Jarlan Perez" (CC-BY 3.0) https://poly.pizza/m/cKVNEpmNy36
+car.glb: "Racing car by scaranto" (CC0 1.0) https://poly.pizza/m/EMcTJiXibv
+dog.glb: "Beagle by Poly by Google" (CC-BY 3.0) https://poly.pizza/m/0BnDT3T1wTE
+ship.glb: "Simple Battleship by Thomas de Rivaz" (CC-BY 3.0) https://poly.pizza/m/aYAmfkUYZjg
+boot.glb: "Boots by Poly by Google" (CC-BY 3.0) https://poly.pizza/m/7HbqG8RwRcA
+iron.glb: "Clothes iron by Poly by Google" (CC-BY 3.0) https://poly.pizza/m/48_IoteMeNx
+cannon.glb: "Cannon by Quaternius" (CC0 1.0) https://poly.pizza/m/J15vlPVvKK
+wheelbarrow.glb: "Wheelbarrow by Poly by Google" (CC-BY 3.0) https://poly.pizza/m/6XpEkgDXwkU
